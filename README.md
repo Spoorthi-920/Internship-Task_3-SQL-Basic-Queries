@@ -41,8 +41,3 @@ The `task3_select_queries.sql` file includes examples of:
 ## Tools Used
 - **MySQL Workbench** – for creating and querying MySQL databases
 
-  
-## How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YourUsername/Internship-Task_3-SQL-Basic-Queries.git
