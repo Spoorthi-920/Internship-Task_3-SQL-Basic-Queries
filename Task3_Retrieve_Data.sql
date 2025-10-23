@@ -29,11 +29,11 @@ SELECT first_name, last_name, department FROM employees;
 SELECT * FROM employees
 WHERE department = 'IT';
 
--- 4. Use AND to combine conditions
+-- 4. Use AND to combine conditions, true only if both are true
 SELECT * FROM employees
 WHERE department = 'IT' AND salary > 70000;
 
--- 5. Use OR to combine conditions
+-- 5. Use OR to combine conditions, true if either of them are true
 SELECT * FROM employees
 WHERE department = 'IT' OR department = 'Finance';
 
